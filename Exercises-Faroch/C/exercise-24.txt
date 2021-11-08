@@ -1,0 +1,3 @@
+Beskrivning
+Create a structure, person, which has name, age, weight and height as members.
+Make a function, get_person, to read these members from the standard input and return them as a struct person.

@@ -1,0 +1,8 @@
+Beskrivning
+Write a program to make a 2D array of size 3x3 and print it to the terminal.
+First ask the user to enter all the enteries [i][j] and then print the array to the output.
+Print the array to the output like a table. E.g.
+
+123   234  456
+54    678  987
+12    987  100
