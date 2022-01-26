@@ -7,6 +7,9 @@ Other files
 *.vscode
 out
 
+## python
+__pycache__
+
 ###
 !*.c
 !*.h
