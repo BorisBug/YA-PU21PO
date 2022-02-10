@@ -1,0 +1,8 @@
+Beskrivning
+Using the WebServer library make a web server to control the LED on ESP32. The web server shall serve 3 URLs
+
+http://<ip_address_of_your_esp32>/              => Turns the LED off
+http://<ip_address_of_your_esp32>/led/on    => Turns the LED on
+http://<ip_address_of_your_esp32>/led/off    => Turns the LED off
+If you are familiar with html and CSS, make a simple html page which has a text to show the current state of the LED and a link to click to change the state of the LED.
+

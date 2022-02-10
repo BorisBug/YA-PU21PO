@@ -1,0 +1,14 @@
+Beskrivning
+
+Predict nationality based on a name
+
+Using HTTPClient library make a program for ESP32 to read names from the terminal and make requests to https://api.nationalize.io/?name=XXXXXX
+
+The server will send resposes to for your requests. The program shall display the response in the terminal.
+
+The web server gets the name and based on it predict nationalities.
+
+For example: https://api.nationalize.io/?name=stefan will return 
+
+{"name":"stefan","country":[{"country_id":"AT","probability":0.1154051730300023},{"country_id":"RS","probability":0.10833768504783693},{"country_id":"DE","probability":0.09098869138807936}]}
+

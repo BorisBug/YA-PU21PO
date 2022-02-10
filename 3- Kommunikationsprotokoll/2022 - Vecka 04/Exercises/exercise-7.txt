@@ -1,0 +1,4 @@
+Beskrivning
+Make a program using UART over BLE to control (on/off) the built in LED on ESP32.
+
+Use nRF Toolbox or Bluetooth for Arduino app on your phone as the client.

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "master"
+		},
+		{
+			"path": "slave"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp",
+			"array": "cpp"
+		}
+	}
+}
