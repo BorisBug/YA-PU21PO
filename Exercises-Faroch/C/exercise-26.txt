@@ -1,2 +1,0 @@
-Beskrivning
-Make a function to compare two strings. If they are equal, the function shall return 1; otherwise 0.

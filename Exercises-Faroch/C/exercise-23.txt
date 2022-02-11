@@ -1,4 +1,0 @@
-Beskrivning
-Make a function to fill an array of type int with unique random numbers between 0 and 100.
-Make another function to print an array of type int to the output.
-Example: An array filled with random numbers: {9, 3, 8, 0, 5, 2, 6, 7, 1, 4}

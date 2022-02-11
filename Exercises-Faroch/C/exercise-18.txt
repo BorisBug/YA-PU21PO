@@ -1,2 +1,0 @@
-Beskrivning
-Make a program to read date and time in the format of YYYY-MM-DD HH:mm:ss from the input and check if the entered date and time is in the correct format or not.

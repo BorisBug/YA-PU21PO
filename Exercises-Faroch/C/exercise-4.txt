@@ -1,4 +1,0 @@
-1) Make the Hello World program.
-2) Comment your program using the doxygen format.
-3) Compile your program in command line.
-3) Run your program.

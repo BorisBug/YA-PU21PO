@@ -1,2 +1,0 @@
-Make a program to print your full name to the terminal.
-Your full name shall be defined as a macro in the command line when you compile your program.

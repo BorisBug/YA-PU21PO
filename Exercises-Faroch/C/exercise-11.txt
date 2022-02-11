@@ -1,2 +1,0 @@
-Beskrivning
-Make a program to read a number in the range of 0 and 255 from the standard input using the scanf function in stdio.h and print the binary form of the number to the output. While the enetered number is not in the range, the program shall ask for a new number.

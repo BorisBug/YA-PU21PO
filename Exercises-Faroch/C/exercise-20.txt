@@ -1,3 +1,0 @@
-Beskrivning
-Make a program to get a string as an argument from the command line, then convert the uppercase letters to lowercase and vice versa and in the end print the string to the standard output.
-To change and print the string use only pointers.
